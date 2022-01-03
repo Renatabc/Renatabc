@@ -1,7 +1,7 @@
 ## Olá!! Eu me chamo Renata Brito 
 
 - 😄 Pronouns: 🇧🇷 ela/dela |  🇺🇸 she/her
-- ⚡ Fun fact: 🇧🇷 Gosto de livros, músicas, teologia e animes. |  🇺🇸 I like read books, music, theology and animes.
+- ⚡ Fun fact: 🇧🇷 Gosto de livros, músicas, jogos, teologia e animes. |  🇺🇸 I like read books, music, games, theology and animes.
 
 <div align="center">
   <a href="https://github.com/Renatabc">
@@ -14,7 +14,7 @@
   <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Renata-pic" height="150" style="border-radius:50px;" src="https://github.com/Renatabc/Renatabc/issues/1#issue-1092529165">
+  <img align="right" src="https://user-images.githubusercontent.com/93830634/147939023-9119acb9-4e98-4984-9066-6cc4080d6d68.png" width="120px" height="120px">
 </div>
 
   ##
