@@ -3,10 +3,12 @@
 - 😄 Pronouns: 🇧🇷 ela/dela |  🇺🇸 she/her
 - ⚡ Fun fact: 🇧🇷 Gosto de livros, músicas, jogos, teologia e animes. |  🇺🇸 I like read books, music, games, theology and animes.
 
-<div align="center">
-  <a href="https://github.com/Renatabc">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Renatabc&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renatabc&layout=compact&langs_count=7&theme=dark"/>
+### Estudando
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40" />
 </div>
 
   ##
